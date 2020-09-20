@@ -33,11 +33,11 @@ class Solution:
         i = 0
         # keep using the largest numerals possible, else increase i
         while num > 0:
-            if num>=values[i]:
-                res+=numerals[i]
-                num-=values[i]
+            if num >= values[i]:
+                res += numerals[i]
+                num -= values[i]
             else:
-                i+=1
+                i += 1
         return res
 ```
 
