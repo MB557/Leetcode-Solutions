@@ -5,4 +5,4 @@ Language Used: ```Python 3```
 
 The markdown files contain the problem statement, link to the problem and the solution. Some problems even contain intuitions/thought processes and visualizations.
 
-If you enjoyed this project, please leave a :star2:
+If these solutions were helpful, please leave a :star2:
