@@ -1,4 +1,4 @@
-## 20. [Valid Parenthesis](https://leetcode.com/problems/valid-parenthesis/) :link:
+## 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) :link:
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
