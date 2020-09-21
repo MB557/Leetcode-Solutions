@@ -2,6 +2,9 @@
 
 Given a linked list, remove the n-th node from the end of list and return its head.
 
+## Visualization
+
+![ll](https://user-images.githubusercontent.com/55105941/93741585-58541780-fc0a-11ea-96ca-635bda1e895c.gif)
 
 ## Solution 1 - Easy to understand :heavy_check_mark:	
 
