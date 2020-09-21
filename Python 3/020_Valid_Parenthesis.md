@@ -6,6 +6,10 @@ An input string is valid if:
 
     Open brackets must be closed by the same type of brackets.
     Open brackets must be closed in the correct order.
+    
+## Visualization
+
+![valid_p](https://user-images.githubusercontent.com/55105941/93742866-7f134d80-fc0c-11ea-8ca3-1d37ebbe3a4c.gif)
 
 ## Solution 1 - Easy stack implementation :heavy_check_mark:	
 
