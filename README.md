@@ -3,6 +3,6 @@
 My Leetcode profile: [MB557](https://leetcode.com/mb557x/) <br>
 Language Used: ```Python 3```
 
-The markdown files contain the problem statement, link to the problem and the solution. Some problems even contain intuitions/thought processes and visualizations.
+The markdown files contain the problem statement, link to the problem and the solution. Some problems even contain intuitions and visualizations.
 
 If these solutions were helpful, please leave a :star2:
