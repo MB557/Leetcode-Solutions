@@ -4,7 +4,7 @@ Given a string containing digits from 2-9 inclusive, return all possible letter 
 
 A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
 
-## Intuition
+## Intuition :thought_balloon:
 
 The question simply asks for a cartesian product of the letters represented by the digits. Thus, I have made use of the ```itertools.product()``` module. ```itertools.product()``` returns a ```list of tuples``` with each tuple representing a possible string. The list comprehension in the return statement simply joins the elements in each tuple to make it a string, iterating over all tuples returned by ```itertools.product()```. The ```*res``` allows us to pass a list of arguments as a single list as ```itertools.product()``` requires the iterables to be separate arguments.
 
