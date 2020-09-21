@@ -6,7 +6,7 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 
 ## Intuition
 
-The question simply asks for a cartesian product of the letters represented by the digits. Thus, I have made use of the itertools.product() module. itertools.product() returns a list of tuples with each tuple representing a possible string. The list comprehension in the return statement simply joins the elements in each tuple to make it a string, iterating over all tuples returned by itertools.product(). The \*res allows us to pass a list of arguments as a single list as itertools.product() requires the iterables to be separate arguments.
+The question simply asks for a cartesian product of the letters represented by the digits. Thus, I have made use of the ```itertools.product()``` module. ```itertools.product()``` returns a ```list of tuples``` with each tuple representing a possible string. The list comprehension in the return statement simply joins the elements in each tuple to make it a string, iterating over all tuples returned by ```itertools.product()```. The ```*res``` allows us to pass a list of arguments as a single list as ```itertools.product()``` requires the iterables to be separate arguments.
 
 
 ## Solution 1 :heavy_check_mark:
