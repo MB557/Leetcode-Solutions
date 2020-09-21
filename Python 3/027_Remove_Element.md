@@ -23,7 +23,7 @@ class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
 
     	# A for loop is executed for N number of times where N = frequency of the given value.
-    	# To count the frequency of an element in an array, the ```count()``` function is used.
+    	# To count the frequency of an element in an array, the count() function is used.
     	# In each iteration, the value is removed from the array (one-by-one).
     	
         for i in range(nums.count(val)):
