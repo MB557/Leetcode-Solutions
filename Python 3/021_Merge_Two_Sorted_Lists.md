@@ -8,6 +8,10 @@ Have a while loop that cycles through both lists -- as long as both lists have a
 
 This solution is most performant when you have two lists that are very different in length.
 
+## Visualization :eight_pointed_black_star:
+
+![merge_ll](https://user-images.githubusercontent.com/55105941/93744543-a61f4e80-fc0f-11ea-9c63-3f39edeeea45.gif)
+
 ## Solution :heavy_check_mark:	
 
 ```python3
