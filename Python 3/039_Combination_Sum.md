@@ -18,6 +18,10 @@ A solution set is:
   [2,2,3]
 ]
 ```
+## Visualization
+
+![Screenshot from 2020-09-22 12-43-12](https://user-images.githubusercontent.com/55105941/93853388-6a4cbd80-fcd1-11ea-9afc-b918be5128c6.png)
+
 ## Solution - Using DFS :heavy_check_mark:	
 
 ```python3
